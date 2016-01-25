@@ -1,26 +1,26 @@
-color:
-  saturation: 0.5342463
-  brandStrength: 0.9703907
-  rhythmicContrast: 0.474947
-  brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  lightness: 0.1890677
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-layout_spectrum: 0.2593068
-typography_spectrum: 0.8417477
+    permalink:
+      path: '/:title/'
+color:
+  saturation: 1
+  lightness: 1
+  brandStrength: 0
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  rhythmicContrast: 0.8598281
+typography_spectrum: 0.0209452
+layout_spectrum: 0.5773362
 name: Art Ramen
