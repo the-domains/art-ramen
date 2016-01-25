@@ -4,23 +4,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
+typography_spectrum: 0.0209452
 color:
-  saturation: 1
-  lightness: 1
+  saturation: 0.01020408
   brandStrength: 0
+  lightness: 0.4892589
   brandColors:
     - '#17BEBB'
     - '#2E282A'
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  rhythmicContrast: 0.8598281
-typography_spectrum: 0.0209452
+  rhythmicContrast: 0
 layout_spectrum: 0.5773362
 name: Art Ramen
